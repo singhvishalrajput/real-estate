@@ -22,7 +22,7 @@ Welcome to **Estoria**, a modern and responsive real estate web application that
 - Optimized for mobile, tablet, and desktop devices.  
 
 🚀 **Smooth Animations**  
-- Powered by **Framer Motion** for an engaging user experience.  
+- Uses **Framer Motion** for an engaging user experience.  
 
 🛠️ **Modular Components**  
 - Well-structured React components for reusability and maintainability.  
@@ -36,7 +36,7 @@ Welcome to **Estoria**, a modern and responsive real estate web application that
 - Toast notifications with **React Toastify**.  
 
 🖼️ **Easy Customization**  
-- Centralized management for assets and data.
+- Centralized management for assets(assets.js) and data(by using context).
 
 ---
 

@@ -8,7 +8,7 @@ const Header = () => {
       <Navbar/>
       <motion.div 
       initial={{opacity : 0, y:100}}
-      transition={{duration:1.5}}
+      transition={{duration:1}}
       whileInView={{opacity: 1, y:0}}
       viewport={{once:true}}
       className='container text-center mx-auto py-4 px-6 md:px-20 lg:px-32 text-white'>
